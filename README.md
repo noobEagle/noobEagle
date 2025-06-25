@@ -2,5 +2,5 @@
 - 👀 I’m interested in Minecraft / arduino maker stuf 
 - 📫 my dc is MaverickEagle#3770 
 - 🇩🇪 im german
-- 📆 im just 13
-- 🍎 im jusing a old macBook air 
+- 📆 im 15
+- 🍎 macBook air 
