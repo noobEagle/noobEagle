@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @noobEagle
-- 👀 I’m interested in Minecraft / arduino maker stuf 
-- 📫 my dc is MaverickEagle#3770 
-- 🇩🇪 im german
-- 📆 im 15
-- 🍎 macBook air 
+
